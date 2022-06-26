@@ -1,0 +1,69 @@
+@charset "EUC-KR";
+
+.buyBody{
+	min-width: 1100px;
+	max-width: 1280px;
+	margin: 0 auto;
+	
+	font-size:11px;
+	font-family: "Nanum Gothic","Malgun Gothic","¸¼Àº °íµñ","µ¸¿ò","Dotum","Apple Gothic","Apple SD Gothic Neo",sans-serif;
+ }
+.buyH1 {
+	font-size:16px;
+	font-weight:bold;
+}
+.buyBlank1 {
+	height: 30px;
+}
+.buyH2 {
+	font-size:12px;
+	margin-top: 3%;
+}
+strong {
+	font-size: 14px;
+}
+#buyTable1 {
+	border-top: 1px solid black;
+}
+#buyRow1_1, #buyRow1_2, #buyRow1_3, #buyRow1_4, #buyRow1_5, #buyRow1_6 {
+	text-align: center;
+	height: 100px;
+}
+#buyRow1_2, #buyRow1_3, #buyRow1_4, #buyRow1_5, #buyRow1_6 {
+	padding-top: 40px;
+}
+#buyRow2_1, #buyRow2_2, #buyRow2_3 {
+			padding: 20px 0 11px 18px;
+		    border: 1px solid #e7e7e7;
+		    border-bottom-width: 0;
+		    color: #353535;
+		    text-align: left;
+		    font-weight: normal;
+ 		    background-color: #fbfbfb;
+ 		    width: 200px;
+}
+.buyBlank2 {
+	height: 30px;
+}
+.buyBtnClass {
+	text-align:center;
+	border:0;
+}
+#buyBtn {
+	padding: 13px 40px 13px 40px;
+	background-color: #404040;
+	border-color: #404040;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	font-size: 12px;		
+}
+#buyBtn:hover {
+	background-color:white;
+	color:black;
+	border-color: #E0E0E0;
+}
+.buyImg {
+	width: 80px;
+	height: 80px;
+}

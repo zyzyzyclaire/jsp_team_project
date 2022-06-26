@@ -1,0 +1,14 @@
+@charset "EUC-KR";
+
+	*{
+		font-family: "Malgun Gothic",µ¸À½;
+	}
+	.nav2{
+		margin:auto;
+		max-width : 1280px;	
+ 		min-width : 1120px;	
+	}
+	
+	.nav2div{
+		float: right;
+	}

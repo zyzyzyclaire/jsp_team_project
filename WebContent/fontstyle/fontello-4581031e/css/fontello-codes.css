@@ -1,0 +1,13 @@
+
+.icon-search:before { content: '\e800'; } /* '' */
+.icon-thumbs-down:before { content: '\e801'; } /* '' */
+.icon-heart:before { content: '\e802'; } /* '' */
+.icon-thumbs-up:before { content: '\e803'; } /* '' */
+.icon-angle-left:before { content: '\f104'; } /* '' */
+.icon-angle-right:before { content: '\f105'; } /* '' */
+.icon-angle-down:before { content: '\f107'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\f164'; } /* '' */
+.icon-thumbs-down-alt:before { content: '\f165'; } /* '' */
+.icon-cart-arrow-down:before { content: '\f218'; } /* '' */
+.icon-shopping-basket:before { content: '\f291'; } /* '' */
+.icon-user-o:before { content: '\f2c0'; } /* '' */

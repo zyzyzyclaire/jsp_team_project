@@ -1,0 +1,149 @@
+@charset "EUC-KR";
+/* *{
+	margin: 0px;
+	padding: 0px;
+	
+} */
+
+.body_div{
+	
+	margin:auto;
+ 	min-width : 1120px;	
+ 	/* font-family: "Malgun Gothic",µ¸À½; */
+ 	font-family: "Nanum Gothic","Malgun Gothic","¸¼Àº °íµñ","µ¸¿ò","Dotum","Apple Gothic","Apple SD Gothic Neo",sans-serif;
+}
+
+a:link {
+	 color: rgb(34, 34, 34);
+}
+a:active {
+ 	 color: rgb(34, 34, 34);
+}
+a:visited {
+  	 color: rgb(34, 34, 34);
+}
+
+.headertop{
+   	margin:auto;
+   	min-width : 1120px;	
+	max-width : 1280px;	
+   	font-size: 11px;
+   	/* border: 1px solid black; */
+ }
+ .headerlinks{
+ 	margin: auto;
+ }
+ 
+ .headerlinks a:hover{
+ 	color:rgb(143, 143, 143);
+ }
+ .headernav li a:hover{
+ 	color:rgb(143, 143, 143);
+ }
+ .headertop span{
+  	font-family: "fontello";
+  	font-size: 18px;
+  	margin-right: 5px;	
+ }
+ 
+ #hearder_title{
+   /*  border: 1px solid black;   */
+ 	line-height: 84px;
+ 	margin: auto;
+ 	font-size: 50px;
+ 	
+ 		
+ 	max-width : 1280px;	
+ 	min-width : 1120px;	
+ }
+.header_title a{
+	text-decoration: none;
+	color: black;
+}
+ .headersearchbox{
+ 	margin: auto;
+ 	/* border: 1px solid red; */
+ 	max-width : 1280px;	
+ 	min-width : 1120px;	
+ 	display: flex;
+ }
+ .searchbox1{
+ 	flex:9;
+ }
+ .searchbox2{
+ 	flex:1;
+ 	width:180px;
+	/* border: 1px solid red; */
+
+ }
+ .searchform{
+ 	width:180px;
+ 	display: flex;
+ }
+ #searchinput{
+ 	flex: 9;
+ 	outline-style: none;
+ 
+ }
+ #searchbutton{
+ 	flex: 1;
+ }
+ 
+ .headernav{
+ 	border-top:  1px rgba(0, 0, 0, 0.09) solid;
+ 	border-bottom:  1px rgba(0, 0, 0, 0.09) solid;
+ 	line-height: 32px;
+	max-width : 1280px;	
+ 	min-width : 1120px;	
+ 	margin: auto;
+
+ }
+  .headernav li{
+ 	margin-right: 50px;
+ 	
+ }
+ .headernav li:last-child{
+ 	margin-right: 0px;
+ 	
+ }
+
+ 
+ 
+ 
+ /*    header ³¡@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+.maindiv{
+	max-width : 1280px;	
+ 	min-width : 1120px;	
+	margin: auto;
+}
+.maindiv img{
+ 	  width: 1244px;
+ 	  height: 630px;
+	}
+.mainalinkimg img:hover{
+	opacity:0.5;
+}
+.maintitle{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 30px;
+}
+
+.goods table{
+	  margin:auto;
+	  border-spacing: 15px;
+ 	  border-collapse: separate;
+ 	  font-size: 12px;
+}
+.goods img{
+	width: 260px;
+	height: 260px;
+}
+
+/*    main ³¡@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+
+
+
+
