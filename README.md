@@ -1,7 +1,7 @@
 # jsp_team_project
-JSP를 이용한 쇼핑몰 사이트 팀프로젝트입니다.
-개발기간 : 3주
-개발인원 : 5명
+* JSP를 이용한 쇼핑몰 사이트 팀프로젝트입니다.
+* 개발기간 : 3주
+* 개발인원 : 5명
 ![image](https://user-images.githubusercontent.com/95404191/175819385-1931c3d2-1c2a-4338-a627-14651ba36174.png)
 
 # 개요
